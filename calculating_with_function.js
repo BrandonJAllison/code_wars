@@ -7,13 +7,6 @@
 //Divison should be integer division. For example, this should return 2, not 2.666666...:
 //eight(dividedBy(three()));
 
-
-
-
-
-
-
-
 function zero() {}
 function one() {}
 function two() {}
